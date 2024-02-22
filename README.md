@@ -1,2 +1,2 @@
 # Pratham
-This os my first Commitment
+This is my first Commitment
